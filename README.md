@@ -246,3 +246,5 @@ fama-french-factor-analysis/
     ├── regression_statistics.csv
     ├── rolling_exposures.csv
     └── vif_diagnostics.csv
+ ```text
+   Fix README formatting and documentation
