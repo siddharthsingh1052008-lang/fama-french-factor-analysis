@@ -241,9 +241,9 @@ The repository contains:
 
 ## Technology Stack
 
-### Python
+### Programming
 
-The project is implemented primarily in Python.
+* Python
 
 ### Data Analysis
 
